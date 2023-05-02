@@ -57,6 +57,18 @@
                     "userName": "DEMO9_BATU",
                     "Password": "7//TtGu6ICevnElKqvkVnHFtDOHH6rAno5xhfmKjdQE="
                   }
+                },
+                {
+                  "BranchName": "feature-1",
+                  "DatabaseConnectionDetails": {
+                    "DBTypeName": "Oracle",
+                    "host": "172.31.88.65",
+                    "port": "1521",
+                    "identifierType": "SERVICE_NAME",
+                    "identifier": "ORCLPDB",
+                    "userName": "DEMO9_FEATURE_1",
+                    "Password": "7//TtGu6ICevnElKqvkVnHFtDOHH6rAno5xhfmKjdQE="
+                  }
                 }
               ],
               "RepositoryCredentials": {
